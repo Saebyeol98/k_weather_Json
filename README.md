@@ -4,7 +4,7 @@
 
 <h3>대한민국 공공데이터 포털을 이용한 날씨데이터 연구</h3>
 
-<a href="data.go.kr">data.go.kr</a> 에서 기상청이 제공해주는 JSON날씨 데이터를<br>
+<a href="https://www.data.go.kr">data.go.kr</a> 에서 기상청이 제공해주는 JSON날씨 데이터를<br>
 안드로이드 시스템으로 가져와 Kotlin언어로 개발을 시도해봄<br>
 
 # 사용한 기술과 언어
